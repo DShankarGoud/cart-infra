@@ -6,7 +6,8 @@ variable "AZ" {}
 
 variable "ENGINE" {}
 variable "ENGINE_VERSION" {}
-variable "INSTANCE_CLASS" {}
-variable "NAME" {}
-variable "SKIP_FINAL_SNAPSHOT" {}
+variable "NODE_TYPE" {}
+variable "NODE_COUNT" {}
+variable "FAMILY" {}
+
 
