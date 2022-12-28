@@ -14,4 +14,4 @@ variable "EC2_NODE_TYPE" {}
 variable "PORT" {}
 variable "SPOT_INSTANCE_COUNT" {}
 variable "ONDEMAND_INSTANCE_COUNT" {}
-
+variable "WORKSTATION_IP" {}
